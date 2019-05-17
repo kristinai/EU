@@ -1,0 +1,68 @@
+{
+   "pay_ratios_2015_16":[
+      {
+         "name":"Conservatives",
+         "vote":23.93,
+      },
+
+      {
+         "name":"Labour",
+         "vote":25.40,
+      },
+      {
+         "name":"UKIP",
+         "vote":27.49,
+      },
+
+      {
+         "name":"Liberal Democrat",
+         "vote":6.87,
+      },
+      {
+         "name":"SNP",
+         "vote":2.46,
+      },
+      {
+         "name":"Green",
+         "vote":7.87,
+      },
+      {
+         "name":"Other",
+         "vote":5.98,
+      },
+
+   ],
+   "pay_ratios_2012_13":[
+     {
+        "name":"Conservatives",
+        "vote":23.93,
+     },
+
+     {
+        "name":"Labour",
+        "vote":25.40,
+     },
+     {
+        "name":"UKIP",
+        "vote":27.49,
+     },
+
+     {
+        "name":"Liberal Democrat",
+        "vote":6.87,
+     },
+     {
+        "name":"SNP",
+        "vote":2.46,
+     },
+     {
+        "name":"Green",
+        "vote":7.87,
+     },
+     {
+        "name":"Other",
+        "vote":5.98,
+     },
+
+   ]
+}
